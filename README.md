@@ -8,6 +8,5 @@
 > I believe we are at a crucial moment of technological transformation that is shaping the market and redefining how we live and work. I want to be part of this revolution, applying my knowledge to develop innovative solutions that can positively impact not only the market but society as a whole.
 
 ## . Status 📜
-<div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=arllindosp&theme=buefy&show_icons=true" alt="Anurag's GitHub stats" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arllindosp&theme=buefy&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arllindosp&theme=buefy&show_icons=true&hide_border=true&layout=compact)
