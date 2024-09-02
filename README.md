@@ -9,6 +9,5 @@
 
 ## . Status 📜
 <div style="text-align: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arllindosp&theme=buefy&hide_border=true" alt="GitHub Stats" style="display: inline-block; margin: 10px;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=arllindosp&theme=buefy&show_icons=true" alt="Anurag's GitHub stats" style="display: inline-block; margin: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=arllindosp&theme=buefy&show_icons=true" alt="Anurag's GitHub stats" />
 </div>
