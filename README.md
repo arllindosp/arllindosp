@@ -1,1 +1,1 @@
-![Purple and Green Vibrant Modern Personal LinkedIn Banner(1)](https://github.com/user-attachments/assets/c3f4e6f4-4845-4686-9bb4-20f05e1a200d)
+![Purple and Green Vibrant Modern Personal LinkedIn Banner(3)](https://github.com/user-attachments/assets/15eda446-4e86-480b-a3e5-0865d3496441)
