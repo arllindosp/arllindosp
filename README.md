@@ -14,3 +14,19 @@
 ## . Experience :clipboard: 
 - **Introduction to Programming | Teaching Assistant |  _2024 - Today_**
   > As a Teaching Assistant in programming at my university, I had the opportunity to support students by teaching fundamental concepts such as Python, Object-Oriented Programming, code debugging, code review, Git, and version control, among others. This experience allowed me to not only strengthen and expand these technical skills but also to develop complementary abilities like logical reasoning, teamwork, and self-management.
+
+## . Projects :pushpin:
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arllindosp&repo=Mastering-SQL&theme=buefy" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arllindosp&repo=Monitoria-IP&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arllindosp&repo=Portfolio-prototype&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arllindosp&repo=Desafio_Citi-PTC&theme=buefy" />
+</a>
