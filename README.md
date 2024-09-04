@@ -13,7 +13,7 @@
 
 ## . Experience :clipboard: 
 - **Introduction to Programming | Teaching Assistant |  _2024 - Today_**
-  > As a Teaching Assistant in programming at my university, I had the opportunity to support students by teaching fundamental concepts such as Python, Object-Oriented Programming, code debugging, code review, Git, and version control, among others. This experience allowed me to not only strengthen and expand these technical skills but also to develop complementary abilities like logical reasoning, teamwork, and self-management.
+  > As a Teaching Assistant in programming at my university, I had the opportunity to support students by teaching fundamental concepts such as **Python**, **Object-Oriented Programming**, **code debugging**, **code review**, **Git, and version control**, among others. This experience allowed me to not only strengthen and expand these technical skills but also to develop complementary abilities like** logical reasoning**,** teamwork,** and **self-management.**
 
 ## . Projects :pushpin:
 
